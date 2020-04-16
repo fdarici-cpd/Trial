@@ -154,12 +154,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Field_1__c</fullName>
+        <fullName>Field_2__c</fullName>
+        <defaultValue>false</defaultValue>
         <externalId>false</externalId>
-        <label>Field 1</label>
-        <required>false</required>
+        <label>Field 2</label>
         <trackTrending>false</trackTrending>
-        <type>Phone</type>
+        <type>Checkbox</type>
     </fields>
     <label>A1</label>
     <nameField>
