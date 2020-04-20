@@ -216,6 +216,15 @@
         <trackTrending>false</trackTrending>
         <type>Percent</type>
     </fields>
+    <fields>
+        <fullName>Field_9__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 9</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
     <label>A1 Dev2</label>
     <nameField>
         <label>A1 Dev2 Name</label>
