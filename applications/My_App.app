@@ -10,6 +10,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>My App</label>
     <navType>Standard</navType>
+    <tabs>A1__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>My_App_UtilityBar</utilityBar>
 </CustomApplication>
