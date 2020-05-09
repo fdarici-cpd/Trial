@@ -254,6 +254,10 @@
                 <default>false</default>
             </values>
             <values>
+                <fullName>2</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>3</fullName>
                 <default>false</default>
             </values>
@@ -262,6 +266,10 @@
             <picklist>PL_2__c</picklist>
             <values>
                 <fullName>A</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>B</fullName>
                 <default>false</default>
             </values>
             <values>
