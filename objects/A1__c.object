@@ -178,6 +178,16 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Field_4__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 4</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>PL_1__c</fullName>
         <externalId>false</externalId>
         <label>PL 1</label>
