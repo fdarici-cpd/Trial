@@ -2759,6 +2759,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>A1__c.Field_4__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>A1__c.PL_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
