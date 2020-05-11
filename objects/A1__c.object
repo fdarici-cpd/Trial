@@ -178,6 +178,14 @@
         <type>Date</type>
     </fields>
     <fields>
+        <fullName>Field_6__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field 6</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>PL_1__c</fullName>
         <externalId>false</externalId>
         <label>PL 1</label>
