@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingAccesses>
+        <enabled>true</enabled>
+        <name>aPS_00017043_Cpd_Test__c</name>
+    </customSettingAccesses>
+    <customSettingAccesses>
+        <enabled>true</enabled>
+        <name>copado__Git_Operation_Restriction__c</name>
+    </customSettingAccesses>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>aPS_ 00017043_Cpd_Test</label>
+</PermissionSet>
