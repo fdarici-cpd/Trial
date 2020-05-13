@@ -168,8 +168,4 @@
         <name>Copado_DX</name>
         <type>ConnectedApp</type>
     </appMenuItems>
-    <appMenuItems>
-        <name>My_App</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
 </AppMenu>
