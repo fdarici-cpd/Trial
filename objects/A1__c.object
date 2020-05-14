@@ -264,6 +264,12 @@
     </fields>
     <label>A1</label>
     <listViews>
+        <fullName>A1_List_View_1</fullName>
+        <columns>NAME</columns>
+        <filterScope>Mine</filterScope>
+        <label>A1 List View 1</label>
+    </listViews>
+    <listViews>
         <fullName>All</fullName>
         <filterScope>Everything</filterScope>
         <label>All</label>
