@@ -246,6 +246,11 @@
         </valueSet>
     </fields>
     <label>A1</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>A1 Name</label>
         <type>Text</type>
