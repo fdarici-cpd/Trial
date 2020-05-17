@@ -573,6 +573,19 @@ CASE( Dreamforce__c,
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
     <webLinks>
+        <fullName>Certification_Guide</fullName>
+        <availability>online</availability>
+        <displayType>massActionButton</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <height>600</height>
+        <linkType>url</linkType>
+        <masterLabel>Certification Guide</masterLabel>
+        <openType>sidebar</openType>
+        <protected>false</protected>
+        <requireRowSelection>true</requireRowSelection>
+        <url>https://fdnh2--trdev1.my.salesforce.com/sfc/p/1h0000006ada/a/1h0000004HzV/Zlf.fENRuMbeoCPhmS1kf7ejXEtbeTKRo_EQ40arCyw</url>
+    </webLinks>
+    <webLinks>
         <fullName>GoogleMaps</fullName>
         <availability>online</availability>
         <displayType>link</displayType>
