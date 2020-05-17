@@ -225,6 +225,20 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Cpd_Acc_Compact</fullName>
+        <fields>Name</fields>
+        <fields>AccountNumber</fields>
+        <fields>Type</fields>
+        <fields>Phone</fields>
+        <fields>Website</fields>
+        <fields>OwnerId</fields>
+        <fields>Industry</fields>
+        <fields>BillingAddress</fields>
+        <fields>ParentId</fields>
+        <fields>AnnualRevenue</fields>
+        <label>Cpd Acc Compact</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
@@ -257,10 +271,6 @@
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
-    </fields>
-    <fields>
-        <fullName>Jigsaw</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Name</fullName>
@@ -311,10 +321,6 @@
     </fields>
     <fields>
         <fullName>Sic</fullName>
-        <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>SicDesc</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
