@@ -56,15 +56,6 @@
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Proposal/Price Quote</fullName>
-        <default>false</default>
-        <label>Proposal/Price Quote</label>
-        <closed>false</closed>
-        <forecastCategory>Pipeline</forecastCategory>
-        <probability>75</probability>
-        <won>false</won>
-    </standardValue>
-    <standardValue>
         <fullName>Negotiation/Review</fullName>
         <default>false</default>
         <label>Negotiation/Review</label>
@@ -72,15 +63,6 @@
         <forecastCategory>Pipeline</forecastCategory>
         <probability>90</probability>
         <won>false</won>
-    </standardValue>
-    <standardValue>
-        <fullName>Closed Won</fullName>
-        <default>false</default>
-        <label>Closed Won</label>
-        <closed>true</closed>
-        <forecastCategory>Closed</forecastCategory>
-        <probability>100</probability>
-        <won>true</won>
     </standardValue>
     <standardValue>
         <fullName>Closed Lost</fullName>
