@@ -154,6 +154,24 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Field_10__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 10</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Field_13__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 13</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Field_1__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
