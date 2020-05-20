@@ -149,7 +149,7 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
@@ -169,6 +169,14 @@
         <trackTrending>false</trackTrending>
         <type>Email</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Field_12__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field 12</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Field_13__c</fullName>
@@ -229,6 +237,60 @@
         <fullName>Field_3__c</fullName>
         <externalId>false</externalId>
         <label>Field 3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Field_4__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 4</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Field_5__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 5</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Field_6__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field 6</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Field_7__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Field 7</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Field_8__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 8</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
+        <fullName>Field_9__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 9</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Date</type>
@@ -329,6 +391,10 @@
                 <default>false</default>
             </values>
             <values>
+                <fullName>2</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>3</fullName>
                 <default>false</default>
             </values>
@@ -340,12 +406,16 @@
                 <default>false</default>
             </values>
             <values>
+                <fullName>B</fullName>
+                <default>false</default>
+            </values>
+            <values>
                 <fullName>C</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
     </recordTypes>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

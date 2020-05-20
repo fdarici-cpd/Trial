@@ -9,12 +9,68 @@
         <value>A1</value>
     </caseValues>
     <fields>
+        <label><!-- Field 10 --></label>
+        <name>Field_10__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 11 --></label>
+        <name>Field_11__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 12 --></label>
+        <name>Field_12__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 13 --></label>
+        <name>Field_13__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 14 --></label>
+        <name>Field_14__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 15 --></label>
+        <name>Field_15__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 16 --></label>
+        <name>Field_16__c</name>
+    </fields>
+    <fields>
         <label><!-- Field 1 --></label>
         <name>Field_1__c</name>
     </fields>
     <fields>
         <label><!-- Field 2 --></label>
         <name>Field_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 3 --></label>
+        <name>Field_3__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 4 --></label>
+        <name>Field_4__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 5 --></label>
+        <name>Field_5__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 6 --></label>
+        <name>Field_6__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 7 --></label>
+        <name>Field_7__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 8 --></label>
+        <name>Field_8__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 9 --></label>
+        <name>Field_9__c</name>
     </fields>
     <fields>
         <label><!-- PL 1 --></label>

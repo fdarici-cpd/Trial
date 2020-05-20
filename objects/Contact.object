@@ -418,6 +418,10 @@ CASE( Dreamforce__c,
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Jigsaw</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
         <fullName>LastCURequestDate</fullName>
     </fields>
     <fields>
@@ -697,6 +701,25 @@ alert(&apos;Only 50 invitations can be sent from standard Contact list&apos;);
 }
 }
 }</url>
+    </webLinks>
+    <webLinks>
+        <fullName>US_Average_Energy_Costs</fullName>
+        <availability>online</availability>
+        <displayType>link</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <hasMenubar>false</hasMenubar>
+        <hasScrollbars>true</hasScrollbars>
+        <hasToolbar>false</hasToolbar>
+        <height>600</height>
+        <isResizable>true</isResizable>
+        <linkType>url</linkType>
+        <masterLabel>US Average Energy Costs</masterLabel>
+        <openType>newWindow</openType>
+        <position>none</position>
+        <protected>false</protected>
+        <showsLocation>false</showsLocation>
+        <showsStatus>false</showsStatus>
+        <url>https://www.eia.gov/analysis/</url>
     </webLinks>
     <webLinks>
         <fullName>YahooMaps</fullName>
