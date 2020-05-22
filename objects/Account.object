@@ -400,11 +400,8 @@
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.PHONE1</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CORE.USERS.ALIAS</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>SAP_Account__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ACCOUNT.EMPLOYEES</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.SITE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.PHONE1</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <webLinks>
