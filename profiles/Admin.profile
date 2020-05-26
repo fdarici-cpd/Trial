@@ -608,9 +608,9 @@
     </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>A1__c.Field_1__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -7384,10 +7384,6 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>A1__c-A1 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>A1__c-A1 Layout</layout>
-        <recordType>A1__c.RT1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
