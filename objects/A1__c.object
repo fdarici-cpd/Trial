@@ -155,11 +155,11 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Field_1__c</fullName>
-        <defaultValue>false</defaultValue>
         <externalId>false</externalId>
         <label>Field 1</label>
+        <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
+        <type>Phone</type>
     </fields>
     <fields>
         <fullName>Field_2__c</fullName>
